@@ -1,0 +1,17 @@
+.sublinhado {
+  text-decoration: none;
+}
+.cursor {
+  color: #ffd740;
+  font-family: "Bangers", cursive;
+}
+.navbar {
+  background-color: #000000;
+}
+.logo {
+  width: 100px;
+  height: 100px;
+}
+.carButton {
+  color: #ffd740 !important;
+}

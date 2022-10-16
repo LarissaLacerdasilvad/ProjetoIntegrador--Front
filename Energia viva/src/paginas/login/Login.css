@@ -1,0 +1,11 @@
+.bg-login{
+    min-height: 100vh;
+    background-image: url('https://www.imagensempng.com.br/wp-content/uploads/2022/02/34324.png');
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .text-decoration-none {
+    text-decoration: none;
+  }

@@ -1,0 +1,19 @@
+.titulo {
+    font-size: 6rem;
+    color: #0000ff;
+    text-align: center;
+  }
+  
+  .imagem {
+    width: 400px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+    
+  }
+  
+  .fundo {
+    background-color: pink;
+  }
+
+  
